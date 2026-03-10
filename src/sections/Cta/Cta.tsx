@@ -54,7 +54,7 @@ function Cta({ onGetStarted, onContactUs }: CtaProps) {
           />
 
           <Typography variant="h2" className="anim-fade-up" sx={{ mb: 1.8, position: 'relative' }}>
-            Ready to modernize cheque operations?
+            Ready to modernize cheque validation?
           </Typography>
           <Typography
             color="text.secondary"

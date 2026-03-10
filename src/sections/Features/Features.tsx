@@ -51,7 +51,7 @@ const features: Feature[] = [
   {
     icon: <TranslateIcon sx={{ color: '#000', fontSize: 28 }} />,
     iconColor: '#8ed39b',
-    title: 'Instant Processing',
+    title: 'Instant cheque OCR',
     description:
       'Real-time extraction and rule checks for bilingual cheque documents with reliable throughput.',
   },
@@ -70,7 +70,7 @@ function Features() {
       <Container maxWidth="lg">
         <SectionHeading
           eyebrow="CORE CAPABILITIES"
-          title="AI capabilities built for cheque operations"
+          title="Cheque OCR capabilities built for cheque operations"
           description="Fast, accurate and secure cheque processing optimized for Sinhala and English banking documents."
           align="center"
         />

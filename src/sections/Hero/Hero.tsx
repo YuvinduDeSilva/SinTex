@@ -103,7 +103,7 @@ function Hero({ onGetStarted }: HeroProps) {
             </Typography>
 
             <Typography variant="h1" className="anim-fade-up anim-delay-1" sx={{ mb: 3, maxWidth: 680 }}>
-              Modern cheque clearing for{' '}
+              Modern cheque validation for{' '}
               <Box
                 component="span"
                 sx={{
